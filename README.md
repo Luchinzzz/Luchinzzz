@@ -1,4 +1,21 @@
 ## Hi there 👋
+I am a PhD student at the University of Florence, in consortium with the University of Perugia.
+
+- 🔭 I’m working on formal analysis of network protocols, Self Sovereign Identity, Access Control Models...
+- 🌱 I’m currently learning Tamarin.
+- 📫 How to reach me: chiara.luchini(AT)collaboratori.unipg.it, chiara.luchini(AT)unifi.it
+- 😄 Pronouns: she/her.
+- 🐈‍⬛ I love cats.
+- ☕ Coffee addicted.
+
+[![Luchinzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luchinzzz)](https://github.com/Luchinzzz/github-readme-stats)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,typescript,python,bootstrap,vscode" />
+  </a>
+</p>
+
 
 <!--
 **Luchinzzz/Luchinzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
