@@ -10,11 +10,8 @@ I am a PhD student at the University of Florence, in consortium with the Univers
 
 [![Luchinzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luchinzzz)](https://github.com/Luchinzzz/github-readme-stats)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,typescript,python,bootstrap,vscode" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,python,bootstrap,vscode)](https://skillicons.dev)
+
 
 
 <!--
