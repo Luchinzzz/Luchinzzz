@@ -8,7 +8,10 @@ I am a PhD student at the University of Florence, in consortium with the Univers
 - 🐈‍⬛ I love cats.
 - ☕ Coffee addicted.
 
-[![Luchinzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luchinzzz&show_icons=true&theme=radical)](https://github.com/Luchinzzz/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=Luchinzzz)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luchinzzz&theme=tokyonight)](https://git.io/streak-stats)
+<!--[![Luchinzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luchinzzz&show_icons=true&theme=radical)](https://github.com/Luchinzzz/github-readme-stats)**-->
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,python,bootstrap,vscode)](https://skillicons.dev)
 
